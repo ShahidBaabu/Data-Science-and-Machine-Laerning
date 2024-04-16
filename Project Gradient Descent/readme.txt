@@ -1,0 +1,1 @@
+Gradient descent has been implemneted using combined cycle power plant data and predictions have been made.
